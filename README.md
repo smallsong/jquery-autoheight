@@ -7,5 +7,14 @@ It gathers each child element and determines the heighet one, and applies that h
 
 This plugin has only one Parameter, "childrens" parameter.
 
-So an example of that could be ```javascript $("div.columns").autoheight({childrens:"div.child"});``` which defines
-the childrens Selector.
+So an example of that could be 
+
+```javascript $("div.columns").autoheight({childrens:"div.child"});``` 
+
+```HTML 
+<div class="columns"> 
+  <div class="child"></div> 
+  <div class="child"></div> 
+  <div class="child"></div>
+</div> ```
+which defines the childrens Selector.
