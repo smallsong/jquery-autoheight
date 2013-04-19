@@ -9,7 +9,7 @@ This plugin has only one Parameter, "childrens" parameter.
 
 So an example of that could be 
 
-```javascript $("div.columns").autoheight({childrens:"div.child"}); ```
+```javascript $("div.columns").autoheight({childrens:"div.child"}); ``` which defines the childrens Selector.
 
 ```HTML 
 <div class="columns"> 
@@ -19,4 +19,3 @@ So an example of that could be
 </div> 
 ```
 
-which defines the childrens Selector.
