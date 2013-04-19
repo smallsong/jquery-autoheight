@@ -19,3 +19,4 @@ So an example of that could be
 </div> 
 ```
 
+You can check it's behaviour at this <a target="_blank" href="http://jsfiddle.net/burimshala/ecVFK/2/">fiddle</a>.
